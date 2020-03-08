@@ -1,0 +1,4 @@
+StateMachine.cpp:11:1:StateMachine::~StateMachine()	16	static
+StateMachine.cpp:11:1:virtual StateMachine::~StateMachine()	16	static
+StateMachine.cpp:17:6:void StateMachine::HandelControlWorld(const Event&, ModbusRegister&)	24	static
+StateMachine.cpp:49:6:void StateMachine::HandelState(ModbusRegister&, ModbusRegister&)	56	static

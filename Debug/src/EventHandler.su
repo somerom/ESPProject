@@ -1,0 +1,3 @@
+EventHandler.cpp:10:1:EventHandler::EventHandler()	16	static
+EventHandler.cpp:15:1:EventHandler::~EventHandler()	16	static
+EventHandler.cpp:15:1:virtual EventHandler::~EventHandler()	16	static
